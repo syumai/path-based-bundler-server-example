@@ -1,4 +1,6 @@
-# path-based-bundler-server
+# path-based-bundler-server-example
+
+* An example application of [@syumai/hono-esbuild-bundler](https://github.com/syumai/hono-esbuild-bundler-middleware).
 
 ## Usage
 
